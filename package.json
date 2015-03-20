@@ -9,6 +9,9 @@
   },
   "contributors": [
     {
+      "name":"Ben Plessinger"
+    },
+    {
       "name":"Matteo Brunati"
     },
     {
@@ -26,15 +29,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mintbridge/passport-ldap.git"
+    "url": "git://github.com/plessbd/passport-ldap.git"
   },
   "bugs": {
-    "url": "http://github.com/mintbridge/passport-ldap/issues"
+    "url": "http://github.com/plessbd/passport-ldap/issues"
   },
   "main": "./lib/passport-ldap",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "ldapjs": "0.6.3"
+    "ldapjs": "0.7.1"
   },
   "devDependencies": {
     "vows": "0.6.x"
