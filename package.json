@@ -37,7 +37,7 @@
   "main": "./lib/passport-ldap",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "ldapjs": "0.7.1"
+    "ldapjs": "mcavage/node-ldapjs"
   },
   "devDependencies": {
     "vows": "0.6.x"
